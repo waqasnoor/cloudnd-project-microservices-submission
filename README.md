@@ -10,6 +10,8 @@ This project includes Screenshots, Links to Relevent Repos as well as Production
 - Build CICD Pipeline :heavy_check_mark:
 - Deploy to Kubernetes :heavy_check_mark:
 - Logging :heavy_check_mark:
+- Deploy to EKS :heavy_check_mark:
+- Test Autoscalling :heavy_check_mark:
 
 ## Repositories
 
@@ -45,6 +47,17 @@ This Project has been divided in 4 different Repositories
 ![Describe HPA](/screenshots/describeHPA.png)
 
 ![Logs](/screenshots/logs.png)
+
+### EKS
+
+AWS EKS Cluster
+![EKS CLUSTER](/screenshots/eksCluster.png)
+
+AWS EKS NODEGROUP
+![EKS NODEGROUP](/screenshots/eksNodegroup.png)
+
+EKSCTL CLUSTER + NODE GROUP
+![EKSCTL  ClUSTER AND NODEGROUP](/screenshots/eksClusterAndNodeGroup.png)
 
 ## Production Link
 
